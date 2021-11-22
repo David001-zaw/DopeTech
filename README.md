@@ -1,1 +1,2 @@
-# DopeTech
+# DopeTech(Dope Team)
+Some description here...
